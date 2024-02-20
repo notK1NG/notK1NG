@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm Sai Pranith
+### I love technology
+### I'm currently learning web dev
+### I would love to collaborate on building awesome websites
+    
 
 <!--
 **notK1NG/notK1NG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
